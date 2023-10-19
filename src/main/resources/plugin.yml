@@ -1,6 +1,6 @@
 name: SpawnerItemFrame
 version: '0.1.0'
-main: ru.m9studio.DropperItemFrame.DropperItemFrame
+main: ru.m9studio.SpawnerItemFrame.SpawnerItemFrame
 api-version: '1.20'
 author: mina987
 authors: [mina987, voldmaks]
