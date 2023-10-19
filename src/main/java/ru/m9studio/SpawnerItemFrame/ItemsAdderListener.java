@@ -5,8 +5,8 @@ import org.bukkit.event.EventHandler;
 
 public class ItemsAdderListener implements org.bukkit.event.Listener
 {
-	ru.m9studio.SpawnerItemFrame.PluginListener listener;
-	public ItemsAdderListener(ru.m9studio.SpawnerItemFrame.PluginListener listener)
+	PluginListener listener;
+	public ItemsAdderListener(PluginListener listener)
 	{
 		super();
 		this.listener = listener;
