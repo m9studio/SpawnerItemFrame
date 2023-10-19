@@ -1,0 +1,10 @@
+name: SpawnerItemFrame
+version: '0.1.0'
+main: ru.m9studio.DropperItemFrame.DropperItemFrame
+api-version: '1.20'
+author: mina987
+authors: [mina987, voldmaks]
+website: www.m9-studio.ru
+load: POSTWORLD
+softdepend: [ItemsAdder]
+description: Spawn items in the ItemFrames
